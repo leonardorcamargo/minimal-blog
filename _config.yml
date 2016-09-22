@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: O Maravilhoso blog Minimalista
-email: blog@minimal.com
+email: leonardorcamargo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Descrição do blog minimalista, desenvolvido em curso Jekyll.
   Com único objetivo sendo o aprendizado da ferramenta.
