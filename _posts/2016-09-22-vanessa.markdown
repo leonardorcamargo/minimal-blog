@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Olá Vanessa!"
-date:   2016-09-22 00:24:00 -0300
----
-
-### Oi Mozimmm!
-
-![aooow](https://lh3.googleusercontent.com/tHqKZR5KM5HUkN7XKhgVIy24fUBMI1NHsHslIuZ3aN5IwYC3ZDqBnBwjc6ategRdfx-hu0yYdOidjm0EyowHrxQ5LNUuxA4AQIwnlSlFaggxwvG3g4OU5WZM52NoVx1oGa0CHl1wlNiR13txW7QqNPXf6RGTMhq8HAcKLig3FFt9Wd1OlPV-d_mPSZoFgekZfH8RSwL0R_UPnSxlzv5vX_PwmxtP8gCsk5uOGVOZHX02GpIb1fmHrJg9O3aWNim83_yxR7s0y8-M6x0iVy-f7_4sTicgrA2jopZFmGMPm6Bm_NnVpVoCh_-D63mym6UkQHTFY0R-FXhWO1ugSHSDt2UabQMxcE5hPPGemYxyKM_h9B91o3BP_OaRYCpQto97W25VOcPGsLLWgx2bh6HCIneRrUODEi4t5Ui1O-ELoIC_RPG3WJ2coKF29oA_v83CxkUiEkA98Wvi9-tfLxiDlaZ6OBWHO7bQAbtN7v9EeiriXsFi3YD_-xGqTwzPMflDp00MYXYu9KN3VQ5BM_Y7zUp5hzv-rurr9JMC-LLcJ7YIKLpPaz2Rat5L6sBz9DrplLREvdnzR3rEntv9F_xkTNhzRg4TDg-InDhmujI6OFbkXofy=w807-h605-no)
